@@ -1,5 +1,5 @@
 DATA SEGMENT
-    score       DB  88          ; 定义一个字节的变量score，假设成绩为88
+    score       DB  88          ; 假设成绩为88
     excellent   DB  'Excellent$'
     medium      DB  'Medium level$'
     pass        DB  'Pass$'
