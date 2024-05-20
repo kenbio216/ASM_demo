@@ -1,5 +1,5 @@
 DATAS SEGMENT
-    SCORES              DW 70,69,58,99,88,91,56,74,92,94
+    SCORES              DW 95,67,86,75,100,52,72,80,93,87
     EXCELLENT_COUNT     DW 0
     BELOW_AVERAGE_COUNT DW 0
     MSG_EXCELLENT       DB 'the excellent: $'
